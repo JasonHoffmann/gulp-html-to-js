@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mitranim/gulp-html-to-js.git"
+    "url": "https://github.com/JasonHoffmann/gulp-html-to-js.git"
   },
   "dependencies": {
     "through2": "^0.6.5",
